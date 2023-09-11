@@ -24,6 +24,7 @@ int main(){
 	
 	// calling funtion here
 	int res=  arradd(arr, size);
+	//print return function value
 	cout<<"Sum of Array elements = "<< res;
 	
 	int sub = arrsub(arr, size);
