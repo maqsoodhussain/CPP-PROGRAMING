@@ -22,7 +22,7 @@ int main(){
 }
 
 
-
+//function that checks whheater elements of array are even or odd
 void evenodd(int arr[], int size){
 	
 	for(int i=0; i<size; i++){
