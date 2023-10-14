@@ -1,18 +1,9 @@
-// Online C++ compiler to run C++ program online
-
-
 /*   
 
 this programe is not best 
 it works fine up number 999 may be online their is more
 sufficient and easy program availabel  program 
-
-
-
 */
-
-
-
 
 
 #include <iostream>
