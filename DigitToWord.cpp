@@ -104,7 +104,12 @@ if(num >= 20 && num < 100){
        
 }
 
+    //if someone wirtes above 999 its shows blow messgage it code is exceptional
+if(num> 999){
+	cout<<"Write only works upto 999";
+}
 
+    
 //hsere we prints orginal word 
 
 cout << result << endl;
