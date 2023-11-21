@@ -1,0 +1,2 @@
+hello to the world of c++ file io
+this file is the result of fstreamIO.cpp program
