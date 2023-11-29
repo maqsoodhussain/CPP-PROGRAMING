@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1665125454 source:f:\subjects taught\c++\cppclass\miceleneousprograms.cpp
+
+1665125503 source:f:\subjects taught\c++\cppclass\main.cpp
+	<iostream>
+	"miceleneous.h"
+	"mathematics.h"
+
+1665124267 f:\subjects taught\c++\cppclass\miceleneous.h
+
+1665125698 f:\subjects taught\c++\cppclass\mathematics.h
+
+1665126190 source:f:\subjects taught\c++\cppclass\mathfunction.cpp
+

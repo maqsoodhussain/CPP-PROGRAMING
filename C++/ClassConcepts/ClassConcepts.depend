@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1667970359 source:f:\subjects taught\c++\classconcepts\main.cpp
+	<iostream>
+	"ClassBasics.h"
+
+1667661186 source:f:\subjects taught\c++\classconcepts\classdefinition.cpp
+	"ClassBasics.h"
+
+1667661088 f:\subjects taught\c++\classconcepts\classbasics.h
+
+1667661088 source:f:\subjects taught\c++\classconcepts\classbasics.h
+
+1667662050 source:f:\subjects taught\c++\classconcepts\classbasics.cpp
+	"ClassBasics.h"
+
+1667662050 source:f:\subjects taught\c++\classconcepts\classbasic.cpp
+	"ClassBasics.h"
+

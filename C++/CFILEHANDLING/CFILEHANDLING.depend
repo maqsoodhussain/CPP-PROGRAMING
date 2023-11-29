@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665430747 source:f:\subjects taught\c++\cfilehandling\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,4 @@
+this i s the first program for writing files in c
+this demostrates the use of fopen("file","mode") , putc(c,fp) , and fclose(fp) functions
+this also demonstrates the use of access modes
+this also demonstrates the use of getc(fp) function
