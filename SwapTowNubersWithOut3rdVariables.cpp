@@ -10,7 +10,7 @@ int main(){
      
     cout<<"You Entered :- "<<a<<" "<<b<<endl;
     
-    a = a + b ;
+        a = a + b ;
 	b = a - b;
 	a = a-b ;
 	
