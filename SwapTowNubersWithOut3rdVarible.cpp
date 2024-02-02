@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(){
-	
+
+	//taking two variables a and b 
 	int a,b;
 	cout<<"Enter two numbers: ";
 	cin>>a>>b;
